@@ -1,0 +1,11 @@
+h6{
+    background: blueviolet;
+    font-size: 50%;
+    display: inline-block;
+}
+
+.bloque{
+    background: blueviolet;
+    display: block;
+    font-size: 20%;
+}

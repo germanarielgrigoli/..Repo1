@@ -1,0 +1,10 @@
+.estilo1{
+    background: tomato;
+    padding: 100px;
+    /* width: 25%; */
+    margin: 10px;
+}
+
+.padre{
+    display: flex;
+}
